@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
         plugin = "html:target/cucumber",  //report of the execution tests
         features = "src/test/resources/features",
         glue = "steps",
-        tags = "@googleParameters",
-        dryRun = true
+        tags = "@StudentEmail"
+
 
 
 )
